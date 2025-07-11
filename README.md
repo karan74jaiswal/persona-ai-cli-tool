@@ -9,7 +9,6 @@ Welcome to the **Hitesh Sir Persona** project! This repository contains resource
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
@@ -62,10 +61,6 @@ Welcome to the **Hitesh Sir Persona** project! This repository contains resource
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
