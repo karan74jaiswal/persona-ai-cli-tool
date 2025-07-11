@@ -28,7 +28,7 @@ Welcome to the **Hitesh Sir Persona** project! This repository contains resource
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/yourusername/hitesh-sir-persona.git
+   git clone https://github.com/karan74jaiswal/persona-ai-cli-tool.git
    cd hitesh-sir-persona
    ```
 
