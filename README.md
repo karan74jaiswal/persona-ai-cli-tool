@@ -1,25 +1,72 @@
 # Hitesh Sir Persona
 
-This project aims to create a digital persona inspired by Hitesh Sir, focusing on educational content and interactive experiences.
+Welcome to the **Hitesh Sir Persona** project! This repository contains resources and code for building an AI-powered persona inspired by Hitesh Sir, designed to assist with programming queries and educational content.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Overview
+
+**Hitesh Sir Persona** is an AI assistant tailored for programming education. It provides code examples, explanations, and guidance in a friendly, approachable style.
 
 ## Features
 
-- Interactive Q&A
-- Educational resources
-- Persona-based responses
+- Answers programming questions
+- Provides code snippets and explanations
+- Supports multiple programming languages
+- Friendly and educational tone
 
 ## Getting Started
 
-1. Clone the repository:
+1. **Clone the repository:**
+
    ```
-   git clone https://github.com/your-username/hitesh-sir-persona.git
-   ```
-2. Navigate to the project directory:
-   ```
+   git clone https://github.com/yourusername/hitesh-sir-persona.git
    cd hitesh-sir-persona
    ```
-3. Follow the setup instructions in the documentation.
+
+2. **Install dependencies using [uv](https://github.com/astral-sh/uv):**
+
+   ```
+   uv pip install -r requirements.txt
+   ```
+
+   Or with pip:
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. **Run the project:**
+   ```
+   python main.py
+   ```
+   Or with uv:
+   ```
+   uv pip run main.py
+   ```
+
+## Usage
+
+- Ask programming questions via the interface.
+- Receive code samples and explanations.
+- Use as a learning tool or teaching assistant.
 
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For questions or support, please open an issue or contact the maintainer at karan74jaiswal@gmail.com.
