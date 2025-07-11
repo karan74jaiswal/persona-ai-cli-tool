@@ -28,28 +28,18 @@ Welcome to the **Hitesh Sir Persona** project! This repository contains resource
 
    ```
    git clone https://github.com/karan74jaiswal/persona-ai-cli-tool.git
-   cd hitesh-sir-persona
+   cd persona-ai-cli-tool
    ```
 
 2. **Install dependencies using [uv](https://github.com/astral-sh/uv):**
 
    ```
-   uv pip install -r requirements.txt
-   ```
-
-   Or with pip:
-
-   ```
-   pip install -r requirements.txt
+   uv sync
    ```
 
 3. **Run the project:**
    ```
-   python main.py
-   ```
-   Or with uv:
-   ```
-   uv pip run main.py
+   uv run main.py
    ```
 
 ## Usage
